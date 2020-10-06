@@ -1,6 +1,7 @@
 # Meal_App
 
 A new Flutter project.
+
 This project was a testing ground for few things
 => Navigations Basics : different screens were accessed via pages and routes. We can push,pop,replace between pages. also can use named routes and unnamed routes
 => Tabs basics : had options for both bottom or top tab. It let us switch between different stacks. But we cant pop the screens here.
